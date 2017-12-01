@@ -1,3 +1,4 @@
+/* a whole lot of hacked together code by: ewpratten */
 int button_C = 2;
 int button_D = 3;
 int button_E = 4;
